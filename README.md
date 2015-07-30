@@ -8,7 +8,7 @@ Oldenburg Software Engineering Craftmanship Meetup
 * Hier einen neuen Themenvorschlag anfügen
 
 ## Vergangene Events
-* 20.01.2014, Web Frontends 2015 - State of the Art mit JavaScript, REST, Node & Grunt, bei den Jungen Haien
+* 20.01.2015, Web Frontends 2015 - State of the Art mit JavaScript, REST, Node & Grunt, bei den Jungen Haien
 * 18.09.2014, Kennenlern-Meetup, Phoenix
 
 ## Wie reiche ich einen Themenvorschlag ein?
