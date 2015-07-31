@@ -6,6 +6,7 @@ Oldenburg Software Engineering Craftmanship Meetup
 
 ## Vorschläge
 * Technische Schulden - eine überholte Metapher? 
+* Flux Application Architecture
 * Hier einen neuen Themenvorschlag anfügen
 
 ## Vergangene Events
