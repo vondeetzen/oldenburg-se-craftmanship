@@ -6,6 +6,7 @@ Oldenburg Software Engineering Craftmanship Meetup
 
 ## Vorschläge
 * Technische Schulden - eine überholte Metapher?
+* Selenium, geb und graphene im Vergleich
 * Hier einen neuen Themenvorschlag anfügen
 
 ## Vergangene Events
