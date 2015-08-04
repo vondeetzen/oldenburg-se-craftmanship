@@ -1,0 +1,3 @@
+Facebooks ReactJS ist der neue Stern am Himmel der client-seitigen JavaScript-Bibliotheken. Neben diesem innovativen Framework hat der Software-Gigant zusätzlich ein Pattern veröffentlicht, welches die Nachteile des klassischen MVC-Prinzips umgehen soll: Die Flux-Architektur. Auf Basis dieser Architektur wurden bereits Web-Anwendungen wie facebook.com und instagram.com entwickelt.
+
+Im Vortrag werden die Ideen und Vorteile dieses Architekturansatzes näher erläutert. Außerdem soll diskutiert werden, ob und wie sich die Flux Application Architecture auch abseits von ReactJS verwenden lässt.
