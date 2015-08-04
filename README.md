@@ -2,11 +2,10 @@
 Oldenburg Software Engineering Craftmanship Meetup
 
 ## Nächstes Event
-* 21.09.2015, "TBD", open knowledge GmbH, Poststr. 1 
+* 21.09.2015, "Flux Application Architecture", open knowledge GmbH, Poststr. 1 
 
 ## Vorschläge
 * Technische Schulden - eine überholte Metapher? 
-* Flux Application Architecture
 * Hier einen neuen Themenvorschlag anfügen
 
 ## Vergangene Events
