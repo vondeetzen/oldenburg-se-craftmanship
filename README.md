@@ -2,6 +2,7 @@
 Oldenburg Software Engineering Craftmanship Meetup
 
 ## Nächstes Event
+05.02.2016 -- React - ein neues V mit großem Potential? (Stephan Schmidt, Renke Grunwald, Sven Kölpin)
 
 ## Vorschläge
 * Technische Schulden - eine überholte Metapher?
