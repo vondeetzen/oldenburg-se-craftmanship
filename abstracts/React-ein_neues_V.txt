@@ -1,0 +1,13 @@
+React - ein neues V mit großem Potential?
+
+React.js - eine JavaScript-basierte View Technologie aus dem Hause Facebook - schickt sich schon seit einiger Zeit an, die Frontendszene gehörig durcheinander zu wirbeln. Mittlerweile ergänzt um React Native verspricht React eine plattformübergreifende UI/View-Entwicklung, vom klassischen HTML Frontend über mobile Devices bis hin zur Consolen-Anwendung. Die Nutzer von React, neben Facebook auch große Namen wie Instagram, Netflix oder Airbnb, aber auch eigene Projekte, scheinen dieses Versprechen zu bestätigen.
+
+Ist React damit wirklich das beste V seit geschnitten Brot?
+
+Nach einer Einführung zu React und den zugrundeliegenden Konzepten sowie verwandten (Flux, Redux) werden wir anhand von mehreren Beispielanwendungen die Vor- und Nachteile von React vorstellen und diskutieren und dabei überprüfen, ob und mit welchen Konsequenzen die Wiederverwendung von UI-Code wirklich möglich ist. Leichte JavaScript-Kenntnisse werden vorausgesetzt.
+
+
+Stephan Schmidt arbeitet mit übercto als Berater und Interim CTO für Startups.  Er hilft Firmen auf die nächste Stufe zu heben und ihre technischen Herausforderungen in den Bereichen Sicherheit, Skalierung und Teamaufbau.
+Renke Grunwald ist Enterprise-Entwickler bei der open knowledge GmbH in Oldenburg.
+Sven Kölpin ist Enterprise-Entwickler, Speaker und Autor bei der open knowledge GmbH in Oldenburg. Schwerpunkt und
+Leidenschaft sind die Konzeption und Entwicklung von Webanwendungen.
